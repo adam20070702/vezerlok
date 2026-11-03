@@ -8,12 +8,4 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
-  <ItemGroup>
-    <None Remove="kep.jpg" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Content Include="kep.jpg" />
-  </ItemGroup>
-
 </Project>
